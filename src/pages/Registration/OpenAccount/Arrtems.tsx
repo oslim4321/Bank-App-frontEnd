@@ -1,0 +1,5 @@
+export const states =
+    ["Abia", "Adamawa", "Akwa Ibom", "Anambra", "Bauchi", "Bayelsa", "Benue", "Borno", "Cross River", "Delta", "Ebonyi", "Edo", "Ekiti", "Enugu", "Gombe", "Imo", "Jigawa", "Kaduna", "Kano", "Katsina", "Kebbi", "Kogi", "Kwara", "Lagos", "Nasarawa", "Niger", "Ogun", "Ondo", "Osun", "Oyo", "Plateau", "Rivers", "Sokoto", "Taraba", "Yobe", "Zamfara"]
+
+export const cities = ["Umuahia", "Aba", "Yola", "Mubi", "Uyo", "Ikot Ekpene", "Awka", "Onitsha", "Bauchi", "Azare", "Yenagoa", "Sagbama", "Makurdi", "Gboko", "Maiduguri", "Biu", "Calabar", "Ogoja", "Asaba", "Warri", "Abakaliki", "Onueke", "Benin City", "Auchi", "Ado-Ekiti", "Ikere-Ekiti", "Enugu", "Nsukka", "Gombe", "Kaltungo", "Owerri", "Orlu", "Dutse", "Hadejia", "Kaduna", "Zaria", "Kano", "Gwarzo", "Katsina", "Funtua", "Birnin Kebbi", "Zuru", "Lokoja", "Okene", "Ilorin", "Offa", "Lagos", "Ikeja", "Lafia", "Keffi", "Minna", "Bida", "Abeokuta", "Ijebu-Ode", "Akure", "Ondo", "Osogbo", "Ilesa", "Ibadan", "Oyo", "Jos", "Bukuru", "Port Harcourt", "Bonny", "Sokoto", "Gusau", "Jalingo", "Serti", "Damaturu", "Potiskum", "Gusau", "Anka"]
+
